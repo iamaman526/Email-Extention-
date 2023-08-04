@@ -44,13 +44,5 @@ Once the "Gmail Button" Chrome extension is installed, you can start using it to
 
 9. Repeat the process for other emails as needed to quickly gather the necessary information.
 
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvement, please create an issue in the [GitHub repository](https://github.com/ShubhamVsCode/Email-Support-Extension/) or submit a pull request.
-
-## License
-
-This "Gmail Button" Chrome extension is open-source and licensed under the [MIT License](LICENSE).
 
 
-# Email-Extention-
